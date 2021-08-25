@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Wicdertax
+- 👀 I’m interested in programming on c# an Java
+- 🌱 I’m currently learning c#
